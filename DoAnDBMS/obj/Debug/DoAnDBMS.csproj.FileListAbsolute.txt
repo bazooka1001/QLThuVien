@@ -1,0 +1,230 @@
+C:\Users\FX504G\Desktop\1.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+C:\Users\FX504G\Desktop\1.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\1.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\1.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojAssemblyReference.cache
+C:\Users\FX504G\Desktop\1.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.fmDangKy.resources
+C:\Users\FX504G\Desktop\1.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDangNhap.resources
+C:\Users\FX504G\Desktop\1.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+C:\Users\FX504G\Desktop\1.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.cache
+C:\Users\FX504G\Desktop\1.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\1.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\1.11.2019\3.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojAssemblyReference.cache
+C:\Users\FX504G\Desktop\1.11.2019\3.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.fmDangKy.resources
+C:\Users\FX504G\Desktop\1.11.2019\3.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDangNhap.resources
+C:\Users\FX504G\Desktop\1.11.2019\3.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+C:\Users\FX504G\Desktop\1.11.2019\3.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.cache
+C:\Users\FX504G\Desktop\1.11.2019\3.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\1.11.2019\3.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\1.11.2019\3.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+C:\Users\FX504G\Desktop\1.11.2019\3.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\1.11.2019\3.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\1.11.2019\3.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMain.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\4.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\4.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\4.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\4.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojAssemblyReference.cache
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\4.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.fmDangKy.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\4.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDangNhap.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\4.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMain.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\4.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\4.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.cache
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\4.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\4.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\6.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojAssemblyReference.cache
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\6.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.fmDangKy.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\6.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDangNhap.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\6.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMain.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\6.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\6.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.cache
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\6.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\6.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\6.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\6.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\6.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\6.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDoiMatKhau.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\6.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmNhanVien.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\6.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmUser.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojAssemblyReference.cache
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.fmDangKy.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDangNhap.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDoiMatKhau.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMain.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmNhanVien.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmThongTinCaNhan.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmUser.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.cache
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmGioiThieuPhanMem.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDanhSachNhanVien.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDanhSachUser.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmNXB.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\7.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTheLoai.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojAssemblyReference.cache
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.fmDangKy.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDangNhap.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDanhSachNhanVien.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDanhSachUser.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDoiMatKhau.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmGioiThieuPhanMem.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMain.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmNhanVien.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmNXB.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTheLoai.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmThongTinCaNhan.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmUser.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.cache
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTacGia.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachOfNV.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachOfUser.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMuonSach.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\11.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTraSach.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojAssemblyReference.cache
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.fmDangKy.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDangNhap.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDanhSachNhanVien.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDanhSachUser.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDoiMatKhau.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmGioiThieuPhanMem.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMain.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMuonSach.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmNhanVien.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmNXB.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachOfNV.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachOfUser.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTacGia.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTheLoai.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmThongTinCaNhan.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTraSach.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmUser.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.cache
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\12.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojAssemblyReference.cache
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.fmDangKy.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDangNhap.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDanhSachNhanVien.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDanhSachUser.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDoiMatKhau.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmGioiThieuPhanMem.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMain.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMuonSach.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmNhanVien.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmNXB.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachOfNV.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachOfUser.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTacGia.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTheLoai.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmThongTinCaNhan.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTraSach.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmUser.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.cache
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmQLMuonSach.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmLichSuMuonSach.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachNo.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmQLTraSach.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojAssemblyReference.cache
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDangNhap.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDanhSachNhanVien.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDanhSachUser.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDoiMatKhau.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmGioiThieuPhanMem.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmLichSuMuonSach.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMain.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMuonSach.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmNhanVien.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmNXB.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmQLMuonSach.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmQLTraSach.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachNo.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachOfNV.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachOfUser.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTacGia.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTheLoai.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmThongTinCaNhan.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTraSach.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmUser.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.cache
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+D:\15.11.2019\15.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojAssemblyReference.cache
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDangNhap.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDanhSachNhanVien.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDanhSachUser.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDoiMatKhau.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmGioiThieuPhanMem.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmLichSuMuonSach.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMain.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMuonSach.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmNhanVien.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmNXB.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmQLMuonSach.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmQLTraSach.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachNo.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachOfNV.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachOfUser.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTacGia.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTheLoai.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmThongTinCaNhan.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTraSach.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmUser.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.cache
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+C:\Users\FX504G\Desktop\DBMS.1.11.2019\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csprojAssemblyReference.cache
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDangNhap.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDanhSachNhanVien.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDanhSachUser.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmDoiMatKhau.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmGioiThieuPhanMem.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmLichSuMuonSach.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMain.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmMuonSach.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmNhanVien.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmNXB.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmQLMuonSach.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmQLTraSach.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachNo.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachOfNV.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmSachOfUser.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTacGia.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTheLoai.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmThongTinCaNhan.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmTraSach.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.frmUser.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.cache
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.CoreCompileInputs.cache
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+E:\Tài liệu học tập\Database Management System\16.11.2019\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
